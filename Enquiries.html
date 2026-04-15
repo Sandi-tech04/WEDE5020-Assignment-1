@@ -21,13 +21,38 @@
         <section>
             <!--Enquiry Form-->
  <h2>Enquiry Form</h2>
+ <p>Please fill in the form below to place an order or request more information. <br>
+    You can choose from our menu or describe your own design.We will get back to you as soon as possible.</p>
             <form>
     Your Name: <br><input type="text"><br>
     <br>
    Email:  <br><input type="text"><br>
    <br>
-                Cake Type: <br><input type="text"><br>
-                <br>
+   Phone number: <br><input type="tel" name="phone" placeholder="+27 82 123 4567" autocomplete="tel"><br>
+   <br>
+                 <!--Cake Type Dropdown-->
+        Select Cake Type: <br>
+        <select name="cakeType">
+            <option value="">--Select a Cake--</option>
+            <option>Salted Caramel Chocolate Cake</option>
+            <option>Chocolate Cherry Cake</option>
+            <option>Chocolate Lava Cake</option>
+            <option>Classic Red Velvet Cake</option>
+            <option>Red Velvet Cheesecake</option>
+            <option>Red Velvet Cupcakes</option>
+            <option>Vanilla Buttercream Cake</option>
+            <option>Vanilla Strawberry Cake</option>
+            <option>Vanilla Sponge Cake</option>
+        </select><br><br>
+
+        <!--Custom Cake Description-->
+        Describe Your Cake (if custom):<br>
+        <textarea name="description" rows="4" cols="30" placeholder="Describe your cake design, flavour, colours, theme, etc."></textarea><br><br>
+
+        <!--Image Upload-->
+        Upload Reference Image (optional):<br>
+        <input type="file" name="image"><br><br>
+        <!--Event Date-->
                  Event Date: <br><input type="date"><br>
                 <br>
                 <label>Message</label><br>
