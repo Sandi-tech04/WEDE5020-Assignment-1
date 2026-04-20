@@ -1,32 +1,47 @@
-Version 1.0 – Initial Setup
-- Created basic HTML structure for all pages (Home, About, Products, Enquiries, Contact)
-- Added navigation menu across all pages
-- Included basic headings
-  
-Version 1.1 – Content Development
-- Added detailed information to Home page
-- added more information on the About page with mission, vision, and business background
-- Improved readability and structure of content
+Version 1.0: First Step
 
-Version 1.2 – Products Page Improvement
-- Added types of cakes sold in the bakery
-- Included more cake options under each category
-- Inserted images for each cake type
-- Fixed layout using tables to align images and text
+•	Set up the basic HTML structure for all pages, including Home, About, Products, Enquiries, and Contact. 
 
-Version 1.3 – Enquiries Page Upgrade
-- Added dropdown menu for cake selection
-- Included textarea for custom cake descriptions
-- Added file upload option for reference images
-- Improved form structure and usability
-  
-Version 1.4 – Contact Page Enhancement
-- Added business contact details (phone and email)
-- Included physical location (Doornfontein, Johannesburg)
-- Added business operating hours
-- Included a simple contact form
+•	Added a navigation menu to all pages. 
 
-Version 1.5 – Final Improvements
-- Fixed HTML errors (missing tags, structure issues)
-- Improved consistency across all pages
-- Enhanced overall layout and user experience
+•	Included simple headings.
+
+Version 1.1: Creating Content
+•	Added more information to the Home page and the About page, including the mission, vision, and business background.
+
+•	Better organization and readability of content.
+
+Version 1.2: Improvements to the Products Page
+•	More kinds of cakes are sold at the bakery.
+
+•	Added more types of cake to each group.
+
+•	Added pictures for each type of cake.
+
+•	Used tables to line up text and images in a fixed layout.
+
+Version 1.3: Update to the Enquiries Page
+•	Added a drop-down menu for choosing a cake
+
+•	Added a textarea for writing custom descriptions of cakes
+
+•	Added the ability to upload reference images as files
+
+•	Better form structure and ease of use
+
+Version 1.4 –  Improved Contact Page 
+•	Added phone and email information for the business
+
+•	Included physical address (Doornfontein, Johannesburg)
+
+•	Added operating hours for the bakery
+
+•	Added a basic contact form
+
+Version 1.5 – Final changes
+•	Fixed HTML errors like missing tags and structure problems
+
+•	Improved consistency across all pages
+
+•	Improved the overall layout and user experience
+
