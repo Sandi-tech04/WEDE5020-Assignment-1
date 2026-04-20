@@ -1,21 +1,20 @@
 #Aurora's Cake Bakery Website
 
-This project is a website developed for Aurora's Cake Bakery, a small business located in Doornfontein, Johannesburg. 
-The purpose of the website is to promote the bakery, showcase products, and allow customers to place enquiries and orders online.
-The website provides information about the bakery, displays available cake options, and allows users to contact the business easily.
+This project is a website created for Aurora's Cake Bakery, a small business located in Doornfontein, Johannesburg. 
+The purpose of the website is to promote the bakery, showcase and advertise products, and allow customers to place enquiries and orders online.
+The website provides information about the bakery, shows available cake options, and allows users to contact the business easily.
 
 ##Features
 - Home page introducing the bakery and its services
-- About page with background, mission, and vision
+- About page with history of the bakery, mission, and vision
 - Products page displaying different types of cakes
 - Enquiries page with a form for custom orders
 - Contact page with location and contact details
-- Image display for products
+- Product images
 - Cake selection dropdown and custom order input
 - Image upload feature for custom cake ideas
 
 ##Technologies Used
-
 - HTML (for structure and content)
 - Basic website layout using tables (HTML only)
 
